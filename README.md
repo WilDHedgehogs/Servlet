@@ -2,6 +2,7 @@
 Practice Work
 
 Некоторые примеры
+
 http://localhost:8080/Servlet_war_exploded/add
 
 {
